@@ -1,5 +1,7 @@
 # Please upload your week 1 assignment here by using a Pull Request. 
 
+The work you need to do is in Lecture 1's slide. 
+
 **Instructions**: 
 
 1. Please first fork the repo. 
